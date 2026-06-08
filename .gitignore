@@ -1,0 +1,4 @@
+__pycache__/
+model_cache_resnet/
+vector_store.db
+drive_storage/
